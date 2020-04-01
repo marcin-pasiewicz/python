@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43373ffb-87db-4b91-876e-294f512c1b60" name="Default Changelist" comment="" />
+    <list default="true" id="43373ffb-87db-4b91-876e-294f512c1b60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web_server/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_server/static/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_server/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_server/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZUx0xq1JlFUSG0GiCQl2Ju0rKr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,15 +33,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pokedex" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_server/static" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_server/static" />
+      <recent name="$PROJECT_DIR$/web_server/templates" />
+      <recent name="$PROJECT_DIR$/web_server" />
       <recent name="$PROJECT_DIR$/pokedex" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_server/static" />
+      <recent name="$PROJECT_DIR$/web_server/templates" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunManager" selected="Python.checkmypass">
@@ -192,9 +209,18 @@
     </state>
     <state x="341" y="164" key="SettingsEditor/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1585050518372" />
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585058256263" />
-    <state x="517" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1584907273466">
+    <state x="517" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1585498121084">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="517" y="330" key="com.intellij.ide.util.TipDialog/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1585498121084" />
     <state x="517" y="330" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1584907273466" />
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585222797947">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1585222797947" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1585498601752">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1585498601752" />
   </component>
 </project>
